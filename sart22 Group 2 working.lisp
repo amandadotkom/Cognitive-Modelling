@@ -225,7 +225,7 @@
 )
 
 (set-base-levels
-  (attend      10000  -10000)
+  (attend      5000  -10000)
   (wander      10000  -10000)
   (random-memory 10000  -10000)
   (attend-memory 10000  -10000)
