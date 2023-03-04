@@ -19,7 +19,7 @@
 (defvar *target-trials* 180) ; number of target trials
 (defvar *non-target-trials* 20) ; number of non-target trials
 
-(defvar *output-directory* "~/documents/uni/") ; location where output files are stored
+(defvar *output-directory* "~/Users/izzikampono/Documents/Github/Cognitive-Modelling") ; location where output files are stored
 (defvar *trace-to-file-only* nil) ; whether the model trace should only be saved to file and not appear in terminal
 (defvar *trace-file-name* "sart-trace") ; name of file in which the trace is stored
 
