@@ -218,6 +218,8 @@
   (attend isa goal state attend)
   (wander isa goal state wander)
   (random-memory isa memory mstate wander)
+  (random-memory2 isa memory mstate wander)
+  (random-memory3 isa memory mstate wander)
   (attend-memory isa memory mstate attend)
   (identify isa subgoal step identify)
   (get-response isa subgoal step get-response)
