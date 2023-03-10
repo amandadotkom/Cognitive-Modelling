@@ -356,6 +356,7 @@
     state     wander
   ?visual>
     scene-change  T
+  =visual-location>
 ==>
   +manual>
     isa       punch
